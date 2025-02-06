@@ -1,6 +1,6 @@
 # GuideMe
 
-![alt text](test1-ezgif.com-video-to-gif-converter.gif)
+![alt text](media/Detecting Redlinesandfeet.gif)
 
 ## Description
 The image processing side of the program, detects red lines and feet tat have a blue marker on them and warn the user if the feet are too close to the red lines.
