@@ -3,7 +3,8 @@
 ![alt text](test1-ezgif.com-video-to-gif-converter.gif)
 
 ## Description
-//TO DO
+The image processing side of the program, detects red lines and feet tat have a blue marker on them and warn the user if the feet are too close to the red lines.
+The code also works in tandem with a LiDar Range sensor that warns the user if they get too close to an obstacle.
 
 ## Visuals
 
